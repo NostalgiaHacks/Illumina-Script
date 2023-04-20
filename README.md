@@ -1,4 +1,4 @@
-![]https://github.com/NostalgiaHacks/Illumina-Script/Picsart_23-04-20_13-32-32-595.jpg
+![](https://github.com/NostalgiaHacks/Illumina-Script/Picsart_23-04-20_13-32-32-595.jpg)
 
 # Illumina.
 Illumina is a Batch script compiled as a .exe file designed to be autoruned on the plug in of a usb flash drive.
